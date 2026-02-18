@@ -1,113 +1,78 @@
 # 🚀 FinFlow AI
 
-AI-powered conversational banking assistant that delivers personalized, explainable financial product recommendations.
+**AI-powered conversational banking assistant** that delivers personalized, explainable financial product recommendations.
 
-🌐 Live Demo: https://fin-flow-ai.netlify.app/
+🔗 Live Demo: https://fin-flow-ai.netlify.app/
 
 ---
 
 ## 🧠 Overview
 
-FinFlow AI is an intelligent recommendation system built for digital banking environments.  
-It combines conversational AI, customer profiling, hybrid scoring, and explainable recommendations into a modular architecture designed for scalability and transparency.
-
-Built for Hackathon 🚀
+FinFlow AI uses conversation and customer profiling to recommend the best financial products with transparent reasoning.  
+Designed for practical use and hackathon submission.
 
 ---
 
-## 🏗️ System Architecture
+## 🏗️ Architecture
 
-### 1️⃣ User Interface Layer
-- Banking application (Figma prototype)
-- Chatbot interface
-- Web-based interaction
+1. **User Interface**  
+   Web chatbot + banking prototype (Figma).
 
-### 2️⃣ Data Processing Engine
-- Customer profiling & classification
-- Behavioral segmentation
-- Feature engineering
-- Query preprocessing
+2. **Data Processing**  
+   Customer profiling, behavior classification, feature extraction.
 
-### 3️⃣ Chatbot Interaction Module
-- NLP-based input processing
-- Dialogue management
-- Context tracking
+3. **Chatbot Module**  
+   NLP + dialogue management + user intent parsing.
 
-### 4️⃣ Product Suitability Engine
-- Hybrid scoring (rule-based + algorithmic)
-- Risk grading
-- Product eligibility validation
-- Recommendation tracking
+4. **Suitability Engine**  
+   Rule + score hybrid scoring for product matches.
 
-### 5️⃣ Explainable Recommendation Engine
-- Generates personalized reasoning
-- Transparent score breakdown
-- User-friendly recommendation messaging
+5. **Explainable Engine**  
+   Generates personalized recommendation reasoning.
 
-### 6️⃣ Product Database
-- Banking product rules
-- Eligibility constraints
-- Risk categories
+6. **Product Database**  
+   Stores product rules, risk definitions, eligibility.
 
-### 7️⃣ Performance Monitoring & Feedback
-- Interaction tracking
-- A/B testing capability
-- Continuous optimization loop
+7. **Monitoring & Feedback**  
+   Interaction tracking and continuous optimization.
 
 ---
 
 ## 🔄 Recommendation Flow
 
-1. User submits query via chatbot  
-2. Customer data is processed & classified  
-3. NLP extracts intent & context  
-4. Suitability engine calculates product score  
-5. Explainability engine generates reasoning  
-6. Recommendation is delivered  
-7. Interaction is logged for performance monitoring  
+1. User interacts with chatbot  
+2. Input processed & classified  
+3. NLP identifies intent  
+4. Suitability scores products  
+5. Recommendations + reasoning delivered  
+6. Feedback logged for improvement
 
 ---
 
 ## ⚙️ Key Features
 
-- 💬 Conversational AI banking assistant  
-- 📊 Intelligent product recommendation engine  
-- 🔍 Hybrid rule + score evaluation  
-- 🧾 Explainable AI (XAI) layer  
-- 📈 Performance monitoring pipeline  
-- 🔄 Continuous feedback optimization  
+- Conversational AI for banking queries  
+- Intelligent recommendation scoring  
+- Explainable AI responses  
+- Modular architecture  
+- Feedback loop for enhancements
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Frontend: Web App (Deployed on Netlify)
-- NLP Engine: Conversational processing module
-- Scoring Engine: Rule-based + algorithmic model
-- Architecture: Modular & scalable system design
+- Frontend: Web app (hosted on Netlify)  
+- NLP + Dialogue System  
+- Scoring Engine: Rules + algorithm
 
 ---
 
-## 🎯 Hackathon Focus
+## 📌 Hackathon Relevance
 
-- Transparency-first AI
-- Modular system design
-- Real-world banking use case
-- Scalable architecture
-- Explainable financial recommendations
+Built for fast evaluation, transparency, explainability, and real-world AI application.
 
 ---
 
-## 🚀 Future Improvements
+## 📄 License
 
-- Real-time credit scoring integration  
-- Advanced ML-based personalization  
-- Secure authentication layer  
-- API-based product database  
-- Multi-channel deployment  
-
----
-
-## 📜 License
-
-Hackathon Project – Educational & Demonstration Purposes Only
+Hackathon Project – For demonstration and learning.
